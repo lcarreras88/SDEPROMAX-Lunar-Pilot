@@ -2,7 +2,7 @@
 
 Interactive lunar landing site explorer for NASA Space Apps. This repository contains the integrated static website delivered by the team, with English as the default language and a Spanish language switch.
 
-Planned production address: https://sdepromax.club/ (Porkbun Secure Static Hosting).
+Production address: https://sdepromax.club/ (Porkbun Secure Static Hosting). The integrated team delivery was published on November 15, 2026; all seven public files were verified against the local release by SHA-256. See `DEPLOYMENT.md`.
 
 ## Run locally
 
